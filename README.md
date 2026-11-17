@@ -72,6 +72,3 @@ The plot will show:
 ## Contributing
 
 This project is primarily for personal academic development. However, contributions are welcome. Please fork the repository, make changes, and submit a pull request with a clear description of your modifications.
-
-## Contact
-For questions or feedback, please contact Preet Siddhapura at preetsiddhapura2204@gmail.com.
